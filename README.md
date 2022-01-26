@@ -5,13 +5,11 @@
 #### Machine Learning enthusiast
 ##
 
-<div align="center">
+<div>
 <a href="https://github.com/Jhonattanln">
   <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=Jhonattanln&show_icons=true&theme=dark">
-</a>
 <a href="https://github.com/Jhonattanln">
   <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonattanln&layout=compact&theme=dark">
-</a>
 <div>
   
 <div style="display: inline_block"><br>
