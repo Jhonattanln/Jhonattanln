@@ -1,16 +1,27 @@
-### Hi there 👋
+#### Jhonattan Lino
 
-<!--
-**Jhonattanln/Jhonattanln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Economist at Proa Investimentos
 
-Here are some ideas to get you started:
+#### Machine Learning enthusiast
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/Jhonattanln">
+  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=Jhonattanln&show_icons=true&theme=dark">
+</a>
+<a href="https://github.com/Jhonattanln">
+  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonattanln&layout=compact&theme=dark">
+</a>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="RStudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
+  <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+</div>
+
+##
+
+<div
+<a href="https://www.linkedin.com/in/jhonattan-economia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div>
