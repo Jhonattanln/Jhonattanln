@@ -4,17 +4,12 @@
 
 #### Machine Learning enthusiast
 ##
-
-
 <a href="https://github.com/Jhonattanln">
   <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=Jhonattanln&show_icons=true&theme=dark">
 </a>
 <a href="https://github.com/Jhonattanln">
   <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonattanln&layout=compact&theme=dark">
 </a>
-
-
-  
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="RStudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg">
