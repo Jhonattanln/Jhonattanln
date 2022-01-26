@@ -5,7 +5,7 @@
 #### Machine Learning enthusiast
 ##
 
-<div>
+<div align="center">
 <a href="https://github.com/Jhonattanln">
   <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=Jhonattanln&show_icons=true&theme=dark">
 </a>
