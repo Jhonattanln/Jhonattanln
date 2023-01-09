@@ -1,6 +1,6 @@
 #### Jhonattan Lino
 
-#### Economist at Proa Investimentos
+#### Data Scientist at Valuup Consultoria
 
 #### Machine Learning enthusiast
 ##
