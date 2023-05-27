@@ -1,6 +1,6 @@
 #### Jhonattan Lino
 
-#### Data Scientist at Valuup Consultoria
+#### Data Scientist at Valuup Consultoria and TM3 Capital
 
 #### Machine Learning enthusiast
 ##
